@@ -1,7 +1,7 @@
 # 💫 About Me:
 I'm currently learning Django, Cloud and backend using python. <br>I am a data Science enthusiast. I have background in ML/DL/RL. I have <br>a paper published on Springer on Prediction of Solar and Lunar Eclipse.<br><br>I am looking for internships and jobs or people to work on hackathons.<br><br>I started from game dev and shifted cause unity is hard
 
-<img align="right" alt="Game Over" width = "400" src="[https://in.pinterest.com/pin/tech-trek-pixel-art-rookie--90353536255246766/](https://tenor.com/en-IN/view/gif-gif-19359087)">
+<img align="right" alt="Game Over" width = "400" src="https://media1.tenor.com/m/UNwENDqd4o0AAAAC/gif.gif">
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Prasoon Modi) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/PrasoonMod92606) 
