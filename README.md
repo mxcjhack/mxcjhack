@@ -1,5 +1,32 @@
-# 💫 About Me:
-I'm currently learning Django, Cloud and backend using python. <br>I am a data Science enthusiast. I have background in ML/DL/RL. I have <br>a paper published on Springer on Prediction of Solar and Lunar Eclipse.<br><br>I am looking for internships and jobs or people to work on hackathons.<br><br>I started from game dev and shifted cause unity is hard
+# 🚀 About Me
+I'm a Java backend developer with hands-on experience in building scalable systems using Spring Boot, RESTful API development, microservices, dependency injection with Dagger, and cloud deployments on AWS. I thrive in Agile environments and enjoy collaborating with cross-functional teams to deliver robust backend solutions.
+
+Alongside my backend engineering expertise, I have a strong background in Machine Learning, Deep Learning, and Reinforcement Learning. My portfolio includes projects in statistical machine learning, image classification, reinforcement learning for games, and fine-tuning large language models (LLMs).
+
+I have also published a research paper in Springer on the Prediction of Solar and Lunar Eclipse.
+
+# Technical Skills
+Languages: Java (Spring Boot), Python (ML/DL), SQL
+
+Frameworks: Spring Boot, Dagger, Hibernate, AWS-SDK
+
+Cloud: AWS (Lambda, DynamoDB, SQS)
+
+Architecture: RESTful APIs, Microservices, Dependency Injection, API Gateway, Circuit Breaker and Fallback
+
+ML/DL: scikit-learn, TensorFlow, PyTorch, LLM fine-tuning
+
+Tools: Git, Maven, Gradle, Jupyter, Agile/Scrum
+
+# 💡 What I'm Working On
+1. Learning Android Development: Building native apps and exploring Kotlin/Java for mobile.
+2. Reinforcing ML/DL/AI Basics: Revisiting core algorithms and advancing in deep learning and AI.
+3. Open to Collaboration: Looking for opportunities to work on challenging backend, ML, or AI projects, hackathons, and open-source initiatives.
+
+🎯 Looking For
+1. Backend Engineering Roles: Java/Spring Boot, API development, microservices
+2. Machine Learning/AI Roles: ML engineering, applied AI, LLMs
+3. Hackathon Teams & Collaborators: If you're passionate about backend or AI, let's build something impactful together!
 
 <img align="right" alt="Game Over" width = "400" src="https://media1.tenor.com/m/UNwENDqd4o0AAAAC/gif.gif">
 
